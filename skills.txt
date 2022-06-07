@@ -1,0 +1,8 @@
+Terminal;
+GitBash;
+GitHub;
+Postman;
+Charles;
+DevTools;
+SQL.
+
