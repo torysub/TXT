@@ -59,7 +59,7 @@
  ```
  git commit -am "New informayion added"
  
- git push`
+ git push
  ```
 
  9. Создать файл preferences.txt 
